@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgba(0, 0, 0, 0.897);
+    background-image: url("../Modelos-Fotos/Portada.Modleos.webp");
+    
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+.swiper {
+ 
+    max-width: 50em;
+    max-height: 80vh;
+}
+
+.header-title-modelos{
+    max-width: 30em;
+    margin: auto;
+    padding: 1em 0 1em 0;
+}
+
+
