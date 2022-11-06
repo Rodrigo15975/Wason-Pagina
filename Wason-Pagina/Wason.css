@@ -657,20 +657,21 @@
   max-width: 35em;
 }
 .section-heider-barber .cont-article-contenido .title-wason-contenido .cont-contenido-foto-heider {
-  border-radius: 4em;
-  border: 0.2em solid rgb(255, 255, 255);
+  border-radius: 0.5em;
+  border: 0.1em solid rgb(255, 255, 255);
+  box-shadow: -1px 0 5px white;
   background-color: rgba(255, 255, 255, 0.374);
   overflow: hidden;
 }
 .section-heider-barber .cont-article-contenido .title-wason-contenido .cont-contenido-foto-heider .foto-heider-contenido {
-  max-width: 30em;
+  max-width: 25em;
   transition: transform 0.3s linear;
 }
 .section-heider-barber .cont-article-contenido .foto-heider-contenido:hover {
-  transform: scale(1.35);
+  transform: scale(1.3);
 }
 .section-heider-barber .cont-article-contenido .cont-content-reservas {
-  background-color: rgba(255, 255, 255, 0.779);
+  background-color: rgb(255, 255, 255);
   padding: 1em;
   text-align: center;
   border-radius: 2em;
