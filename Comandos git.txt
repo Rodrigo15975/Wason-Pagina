@@ -1,0 +1,83 @@
+Vue
+//Para Correr en la consola se usa, npm run dev
+
+//React
+
+//Para crear una carpeta
+npx create-react-app "nombre de la carpeta"
+//Para remplazar
+	
+
+-------------------
+1: ls, para ver que carpetas tenemos
+
+2: pwd, para ver en que carpeta estamos ubicados
+
+3: tab, para rellenar automaticamente la palabra, siempre y cuandop escribas bien
+
+4: cd .., para salir y volver atras
+
+5: mkdir seguido del nombre de la carpeta, para crear una carpeta nueva 
+
+6: cd y nombre de la caperta, para entrar a esa caperta !! , sirve para ingresar a una caperta nueva dentro del comando
+
+7: git init, para inicializar 
+
+8: ls -a, sirve para observar toda las carpetas ocultas
+
+9: code . , sirve para abrir code el, punto indica abrir 
+
+cat seguido del nombre del archivo
+para ver el contenido
+
+10: git ADD, PARA AGREGAR, EL . agregará todo los listados, 
+segunda forma sería, escribir git add y el nombre del archivo
+tercero el fortamo del archivo txt, se agregará los archivos que tienen esa forma txt
+
+11: git status para ver el estado de nuestra aplicación ,,
+
+12: git commit -m "nombre coherente para tu trabajo",, sirve para hacer commit 
+
+13: git commi, directo habre el VSCODE y añades el nombre por ejemplo en la linea 1 agergando chanchito feliz
+
+14: git rm, sirve para eliminar, y luego lo vemos con git status y saldra deleted nombre dle archivo
+
+15: git add , mas el nombre del archivo , se puede agregar masde un archivo, sirve para poder eliminar del staish
+
+16:git commit -m "el nombre del archivo para eliminar";
+
+
+17: git restore --staged "nombre del archivo para eliminar...."
+
+18: git restore "nombre del archivo eliminado para recuperar" >> archivo1.txt 
+
+19: comando >> mv  mas "nombre de tu archivo" archivo1.txt >> "por el nombre que lo cambiaras ">> archivo.txt..
+tienes que agregar el archivo con el nuevo nombre y hacer summit para el nuevo archivo
+ 
+20: git mv "nombre de tu archivo actual ">>> index1.html"nombre por el cual cambiarás ">>> index.html.  comando corto para renombrar,
+
+21:git status -s, si aparece color rojo la letra M es por que ha sido modificado,  git status mejorado: 
+si aparece color verde es por que ya esta en el stage y falta el commit nomas
+
+22: git diff, sirve para ver los cambios de texto que hicimos en el archivo, sale automatico
+
+23: git diff --staged , nos motrara  los cambios realizado en nuestro archivo, etapa staged
+
+24: git log --oneline o git log, nos mostrara todo los datos realizados o cambios
+
+25: git branch para ver en que rama nos encontramos
+
+26: git checkout -b "nombre de la rama para crear", comando para crear una segunda rama 
+
+27: cat "nombre de tu archivo que desees ver el contenido" >> archivo2.txt,comando para ver el contenido que lleva
+
+28: git checkout "nombre de la rama que queires cambiarte", sirve para cambiarte de rama
+
+29: git merge "nombre de la rama quie queires traer el contenido" >> ramab ,, comando para traer el contenido de la otra rama
+
+
+
+
+ 
+
+
